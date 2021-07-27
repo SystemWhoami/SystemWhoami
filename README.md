@@ -3,9 +3,7 @@
     O importante é não parar de questionar. A curiosidade tem a sua própria razão para existir.
     <p align="right"><samp>~ Albert Einstein &nbsp</samp></p>
     </samp>
-    <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
-<br>
 <details align="center">
 <summary>&#9776; Detalhes</summary>
     <h2></h2>
