@@ -1,9 +1,7 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
     O importante é não parar de questionar. A curiosidade tem a sua própria razão para existir.
-    <br>
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -Albert Einstein
-    </br>
+    <p align="right"><strong><samp>~ Albert Einstein</samp></strong></p>
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
