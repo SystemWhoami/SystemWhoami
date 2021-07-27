@@ -12,7 +12,7 @@
         <samp>
         <a href="mailto:mateusbritoluz@gmail.com" target="_blank">E-Mail</a> •
         <a href="https://twitch.tv/systemwhoami" target="_blank">Twitch</a> •
-        <a href="https://instagram/systemwhoami" target="_blank">Intagram</a> •
+        <a href="https://instagram.com/systemwhoami" target="_blank">Intagram</a> •
         <a href="https://systemwhoami.github.io" target="_blank">Website</a>
         </samp>
     </p>
